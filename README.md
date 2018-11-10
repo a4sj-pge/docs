@@ -11,11 +11,9 @@ brew list
 ```
 get package info
 ```
-brew info package-name
+brew info <package-name>
 ```
 upgrade a package installed with brew
-
 ```
-brew upgrade package name
-
+brew upgrade <package-name>
 ```
